@@ -1,0 +1,13 @@
+.todo-item {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.action-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: fit-content;
+}
